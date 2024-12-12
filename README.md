@@ -31,7 +31,7 @@
 <h2 align="center">🛠 Language and Tools</h2>
 <br>
 <div align="center">
-  <<img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,docker,terraform,bash,git,github,aws,vscode" />
+  <<img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,docker,terraform,bash,git,github,aws,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=python,ansible,kubernetes,jenkins,redis,mongodb,nginx" /><br>
 </div>
 
