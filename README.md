@@ -13,16 +13,16 @@
 🙋‍♂️ <h3>**About Me**</h3>
   
 🎓 Bachelor of Computer Applications (Graduated in 2022)
-  
-👨‍💻 **Freelance Database Engineer** with experience in a variety of database projects including designing, maintaining, and optimizing databases.
 
-👀 I’m interested in exploring **database architecture**, **performance tuning**, and **data management** solutions.
+👨‍💻 **Database Engineer** skilled in designing and managing large-scale, distributed database systems for high-availability and mission-critical applications.
 
-🌱 I’m currently enhancing my skills in **SQL**, **PostgreSQL**, **MySQL**, **NoSQL** databases, and **cloud databases**.
+👀 I specialize in **database architecture**, **data modeling**, **query optimization**, **performance tuning**, and **scalability solutions** to support enterprise workloads.
 
-💞️ I’m looking to collaborate on **database projects** that focus on performance, scalability, and reliability.
+🌱 I’m currently advancing my expertise in **PostgreSQL**, **MySQL**, **NoSQL databases**, **ETL pipelines**, **replication strategies**, **disaster recovery**, and **cloud-native database solutions** on platforms like AWS and Azure.
 
-⚡ Fun fact: I think **data integrity** is the cornerstone of any successful system.
+💞️ I thrive on collaborating in teams that build **resilient, high-performance data ecosystems**, ensuring **data integrity**, **low-latency transactions**, and **scalable storage solutions**.
+
+⚡ Fun fact: I believe **every query tells a story**, and optimizing it is like editing a masterpiece.
 
 </div>
 
