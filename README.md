@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg](https://cdn.jsdelivr.net/npm/sql.js@1.12.0/dist/sql-wasm.min.js)" height="40" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/sql.js@1.12.0/dist/sql-wasm.min.js" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
